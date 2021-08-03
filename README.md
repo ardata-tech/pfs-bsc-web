@@ -23,7 +23,7 @@ It can be used by several business process:
 - audit trails
 
 # Related Components
-- pfs-bsc-contracts - the backend contracts that this front-end calls.
+- [pfs-bsc-contracts](https://github.com/proofsys-tech/pfs-bsc-contracts) - the backend contracts that this front-end calls.
 - pfs-bsc-service - REST Service endpoint for consumers who wants to upload directly from their application via REST API.
 
 # This is for demonstration purposes only
